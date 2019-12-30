@@ -1,7 +1,7 @@
 :root {
---base: #ffc600;
---spacing: 10px;
---blur: 10px;
+--base: #c1f017;
+--spacing: 15px;
+--blur: 0px;
 }
 
 img {
@@ -21,7 +21,7 @@ misc styles, nothing to do with CSS variables
 
 body {
 text-align: center;
-background: #193549;
+background-image: linear-gradient(to right, rgb(155, 66, 125), rgb(87, 170, 152));
 color: white;
 font-family: 'helvetica neue', sans-serif;
 font-weight: 100;
